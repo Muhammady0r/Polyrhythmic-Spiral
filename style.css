@@ -46,7 +46,7 @@ canvas {
 
 #background-image {
   z-index: 1;
-  background-image: url("./2333x1000.png");
+  background-image: url("./bg.png");
   background-size: cover;
   background-position: center;
   opacity: 0.6;
